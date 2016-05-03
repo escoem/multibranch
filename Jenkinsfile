@@ -1,4 +1,4 @@
 node {
-  echo 'master'
+  echo 'branch1'
   sh 'cat README.md'
 }
